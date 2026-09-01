@@ -1,0 +1,21 @@
+Model,Category,Fit,Drape,Texture_Fidelity,Body_Preservation,Face_Preservation,Artifact_Control,Generation_Time_Seconds,Cost_INR,Status,Notes
+FASHN,Saree,,,,,,,,,Tested,
+FASHN,Kurti,,,,,,,,,Tested,
+FASHN,Lehenga,Good,Good,Very Good,Very Good,Excellent,Good,,0,Tested,"Generated result available"
+FASHN,Top,,,,,,,,,Tested,
+FASHN,T-shirt,,,,,,,,,Tested,
+FASHN,Jumpsuit,,,,,,,,,Tested,
+FASHN,Coat,,,,,,,,,Tested,
+FASHN,Shirt,,,,,,,,,Tested,
+FASHN,Jeans,,,,,,,,,Tested,
+FASHN,Trousers,,,,,,,,,Tested
+Saree,FASHN,6,3,7,9,10,5,6.67,0.0,0.0
+Trousers,FASHN,9,8,8,9,10,9,8.83,0.0,0.0
+Shirt,FASHN,9,8,8,9,10,9,8.83,0.0,0.0
+Coat,FASHN,9,8,9,9,10,9,9.0,0.0,0.0
+Jeans,FASHN,9,9,9,9,10,9,9.17,0.0,0.0
+T-shirt,FASHN,9,9,8,9,10,9,9.0,0.0,0.0
+Jumpsuit,FASHN,9,9,8,9,10,9,9.0,0.0,0.0
+Kurti,FASHN,9,8,9,9,10,9,9.0,0.0,0.0
+Top,FASHN,9,8,8,9,10,9,8.83,0.0,0.0
+Lehenga,FASHN,8,8,9,9,10,8,8.67,0.0,0.0
