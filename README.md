@@ -137,3 +137,8 @@ Vizzle_VTON_Assignment/
 ├── evaluation/
 │   └── results.csv
 └── outputs/
+## Demo Video
+
+The screen recording demonstrating the evaluation process is available here:
+
+[Watch the Demo Video](https://drive.google.com/file/d/1ztQQcHI2Kymly_9rACdF7yjqpa3p4j6c/view?usp=sharing)
